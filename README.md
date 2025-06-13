@@ -265,3 +265,6 @@ python scripts/run_mt_meta_eval.py \
 ```
 
 </details>
+
+## License
+This work is licensed under [Creative Commons Attribution-ShareAlike-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
