@@ -7,6 +7,7 @@
 
 [![Conference](https://img.shields.io/badge/ACL-2025-4b44ce
 )](https://2025.aclweb.org/)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.19571-b31b1b.svg)](https://arxiv.org/abs/2506.19571)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 [![](https://shields.io/badge/-MT%20Metrics%20Eval-green?style=flat&logo=github&labelColor=gray)](https://github.com/google-research/mt-metrics-eval)
