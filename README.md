@@ -267,5 +267,20 @@ python scripts/run_mt_meta_eval.py \
 
 </details>
 
+## Cite this work
+This work has been published at [ACL 2025 (Main Conference)](https://2025.aclweb.org/program/main_papers/). If you use any part, please consider citing our paper as follows:
+
+```bibtex
+@misc{proietti2025machinetranslationevaluationachieved,
+      title={Has Machine Translation Evaluation Achieved Human Parity? The Human Reference and the Limits of Progress}, 
+      author={Lorenzo Proietti and Stefano Perrella and Roberto Navigli},
+      year={2025},
+      eprint={2506.19571},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2506.19571}, 
+}
+```
+
 ## License
 This work is licensed under [Creative Commons Attribution-ShareAlike-NonCommercial 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
